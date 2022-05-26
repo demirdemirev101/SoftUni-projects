@@ -1,0 +1,14 @@
+F:\C#programming basics\Post exam exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.exe
+F:\C#programming basics\Post exam exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.deps.json
+F:\C#programming basics\Post exam exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.runtimeconfig.json
+F:\C#programming basics\Post exam exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.runtimeconfig.dev.json
+F:\C#programming basics\Post exam exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.dll
+F:\C#programming basics\Post exam exercise\06. Cinema Tickets\bin\Debug\netcoreapp3.1\06. Cinema Tickets.pdb
+F:\C#programming basics\Post exam exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.csproj.AssemblyReference.cache
+F:\C#programming basics\Post exam exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#programming basics\Post exam exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.AssemblyInfoInputs.cache
+F:\C#programming basics\Post exam exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.AssemblyInfo.cs
+F:\C#programming basics\Post exam exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.csproj.CoreCompileInputs.cache
+F:\C#programming basics\Post exam exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.dll
+F:\C#programming basics\Post exam exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.pdb
+F:\C#programming basics\Post exam exercise\06. Cinema Tickets\obj\Debug\netcoreapp3.1\06. Cinema Tickets.genruntimeconfig.cache

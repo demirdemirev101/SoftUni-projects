@@ -1,0 +1,14 @@
+F:\C#programming basics\Post exam exercise\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.exe
+F:\C#programming basics\Post exam exercise\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.deps.json
+F:\C#programming basics\Post exam exercise\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.runtimeconfig.json
+F:\C#programming basics\Post exam exercise\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.runtimeconfig.dev.json
+F:\C#programming basics\Post exam exercise\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.dll
+F:\C#programming basics\Post exam exercise\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.pdb
+F:\C#programming basics\Post exam exercise\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.csproj.AssemblyReference.cache
+F:\C#programming basics\Post exam exercise\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#programming basics\Post exam exercise\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.AssemblyInfoInputs.cache
+F:\C#programming basics\Post exam exercise\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.AssemblyInfo.cs
+F:\C#programming basics\Post exam exercise\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.csproj.CoreCompileInputs.cache
+F:\C#programming basics\Post exam exercise\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.dll
+F:\C#programming basics\Post exam exercise\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.pdb
+F:\C#programming basics\Post exam exercise\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.genruntimeconfig.cache
