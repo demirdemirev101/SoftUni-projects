@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\First steps in coding  - Lab\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.exe
+C:\Users\demir\source\repos\First steps in coding  - Lab\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.deps.json
+C:\Users\demir\source\repos\First steps in coding  - Lab\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.runtimeconfig.json
+C:\Users\demir\source\repos\First steps in coding  - Lab\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.runtimeconfig.dev.json
+C:\Users\demir\source\repos\First steps in coding  - Lab\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.dll
+C:\Users\demir\source\repos\First steps in coding  - Lab\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.pdb
+C:\Users\demir\source\repos\First steps in coding  - Lab\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\First steps in coding  - Lab\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\First steps in coding  - Lab\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\First steps in coding  - Lab\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.AssemblyInfo.cs
+C:\Users\demir\source\repos\First steps in coding  - Lab\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\First steps in coding  - Lab\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.dll
+C:\Users\demir\source\repos\First steps in coding  - Lab\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.pdb
+C:\Users\demir\source\repos\First steps in coding  - Lab\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.genruntimeconfig.cache
