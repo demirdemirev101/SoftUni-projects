@@ -1,0 +1,15 @@
+D:\C# of Demir's\For Loop -  Lab\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.exe
+D:\C# of Demir's\For Loop -  Lab\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.deps.json
+D:\C# of Demir's\For Loop -  Lab\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.runtimeconfig.json
+D:\C# of Demir's\For Loop -  Lab\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.runtimeconfig.dev.json
+D:\C# of Demir's\For Loop -  Lab\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.dll
+D:\C# of Demir's\For Loop -  Lab\05. Character Sequence\bin\Debug\net5.0\ref\05. Character Sequence.dll
+D:\C# of Demir's\For Loop -  Lab\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.pdb
+D:\C# of Demir's\For Loop -  Lab\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# of Demir's\For Loop -  Lab\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.AssemblyInfoInputs.cache
+D:\C# of Demir's\For Loop -  Lab\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.AssemblyInfo.cs
+D:\C# of Demir's\For Loop -  Lab\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.csproj.CoreCompileInputs.cache
+D:\C# of Demir's\For Loop -  Lab\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.dll
+D:\C# of Demir's\For Loop -  Lab\05. Character Sequence\obj\Debug\net5.0\ref\05. Character Sequence.dll
+D:\C# of Demir's\For Loop -  Lab\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.pdb
+D:\C# of Demir's\For Loop -  Lab\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.genruntimeconfig.cache
