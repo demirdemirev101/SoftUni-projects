@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a66590b3-087f-4583-9435-448d0e4c8a7a": {
+      "ProjectGuid": "a66590b3-087f-4583-9435-448d0e4c8a7a",
+      "DisplayName": "01. Read Text",
+      "ColorIndex": 0
+    },
+    "8b272cc3-128f-4cc2-b676-e16b6d723b6d": {
+      "ProjectGuid": "8b272cc3-128f-4cc2-b676-e16b6d723b6d",
+      "DisplayName": "02. Password",
+      "ColorIndex": 1
+    },
+    "7561c71e-169a-430d-aa72-8fb93f04022c": {
+      "ProjectGuid": "7561c71e-169a-430d-aa72-8fb93f04022c",
+      "DisplayName": "03. Sum Numbers",
+      "ColorIndex": 2
+    },
+    "6ba1dd16-9a16-4009-a91e-1f0ace086286": {
+      "ProjectGuid": "6ba1dd16-9a16-4009-a91e-1f0ace086286",
+      "DisplayName": "04. Sequence 2k+1",
+      "ColorIndex": 3
+    },
+    "6167d406-2d8e-411a-be12-e47fd57f2c72": {
+      "ProjectGuid": "6167d406-2d8e-411a-be12-e47fd57f2c72",
+      "DisplayName": "05. Account Balance",
+      "ColorIndex": 4
+    },
+    "f91e94d4-c397-4bfe-a0f4-2031a1d6677c": {
+      "ProjectGuid": "f91e94d4-c397-4bfe-a0f4-2031a1d6677c",
+      "DisplayName": "06. Max Number",
+      "ColorIndex": 5
+    },
+    "7b8d2a35-4b28-4090-ab17-96008e0daca6": {
+      "ProjectGuid": "7b8d2a35-4b28-4090-ab17-96008e0daca6",
+      "DisplayName": "07. Min Number",
+      "ColorIndex": 6
+    },
+    "32cfb9b3-5334-467a-a300-723f20ea18dd": {
+      "ProjectGuid": "32cfb9b3-5334-467a-a300-723f20ea18dd",
+      "DisplayName": "08. Graduation",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
