@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y06. Store Boxes\bin\Debug\netcoreapp3.1\Y06. Store Boxes.exe
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y06. Store Boxes\bin\Debug\netcoreapp3.1\Y06. Store Boxes.deps.json
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y06. Store Boxes\bin\Debug\netcoreapp3.1\Y06. Store Boxes.runtimeconfig.json
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y06. Store Boxes\bin\Debug\netcoreapp3.1\Y06. Store Boxes.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y06. Store Boxes\bin\Debug\netcoreapp3.1\Y06. Store Boxes.dll
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y06. Store Boxes\bin\Debug\netcoreapp3.1\Y06. Store Boxes.pdb
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y06. Store Boxes\obj\Debug\netcoreapp3.1\Y06. Store Boxes.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y06. Store Boxes\obj\Debug\netcoreapp3.1\Y06. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y06. Store Boxes\obj\Debug\netcoreapp3.1\Y06. Store Boxes.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y06. Store Boxes\obj\Debug\netcoreapp3.1\Y06. Store Boxes.AssemblyInfo.cs
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y06. Store Boxes\obj\Debug\netcoreapp3.1\Y06. Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y06. Store Boxes\obj\Debug\netcoreapp3.1\Y06. Store Boxes.dll
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y06. Store Boxes\obj\Debug\netcoreapp3.1\Y06. Store Boxes.pdb
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y06. Store Boxes\obj\Debug\netcoreapp3.1\Y06. Store Boxes.genruntimeconfig.cache

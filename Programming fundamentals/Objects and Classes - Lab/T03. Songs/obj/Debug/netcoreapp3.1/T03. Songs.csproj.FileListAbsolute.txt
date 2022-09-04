@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Objects and Classes - Lab\T03. Songs\bin\Debug\netcoreapp3.1\T03. Songs.exe
+C:\Users\demir\source\repos\Objects and Classes - Lab\T03. Songs\bin\Debug\netcoreapp3.1\T03. Songs.deps.json
+C:\Users\demir\source\repos\Objects and Classes - Lab\T03. Songs\bin\Debug\netcoreapp3.1\T03. Songs.runtimeconfig.json
+C:\Users\demir\source\repos\Objects and Classes - Lab\T03. Songs\bin\Debug\netcoreapp3.1\T03. Songs.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Objects and Classes - Lab\T03. Songs\bin\Debug\netcoreapp3.1\T03. Songs.dll
+C:\Users\demir\source\repos\Objects and Classes - Lab\T03. Songs\bin\Debug\netcoreapp3.1\T03. Songs.pdb
+C:\Users\demir\source\repos\Objects and Classes - Lab\T03. Songs\obj\Debug\netcoreapp3.1\T03. Songs.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Objects and Classes - Lab\T03. Songs\obj\Debug\netcoreapp3.1\T03. Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Objects and Classes - Lab\T03. Songs\obj\Debug\netcoreapp3.1\T03. Songs.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Objects and Classes - Lab\T03. Songs\obj\Debug\netcoreapp3.1\T03. Songs.AssemblyInfo.cs
+C:\Users\demir\source\repos\Objects and Classes - Lab\T03. Songs\obj\Debug\netcoreapp3.1\T03. Songs.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Objects and Classes - Lab\T03. Songs\obj\Debug\netcoreapp3.1\T03. Songs.dll
+C:\Users\demir\source\repos\Objects and Classes - Lab\T03. Songs\obj\Debug\netcoreapp3.1\T03. Songs.pdb
+C:\Users\demir\source\repos\Objects and Classes - Lab\T03. Songs\obj\Debug\netcoreapp3.1\T03. Songs.genruntimeconfig.cache

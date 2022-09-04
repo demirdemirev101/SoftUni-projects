@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Objects and Classes - Lab\T04. Students\bin\Debug\netcoreapp3.1\T04. Students.exe
+C:\Users\demir\source\repos\Objects and Classes - Lab\T04. Students\bin\Debug\netcoreapp3.1\T04. Students.deps.json
+C:\Users\demir\source\repos\Objects and Classes - Lab\T04. Students\bin\Debug\netcoreapp3.1\T04. Students.runtimeconfig.json
+C:\Users\demir\source\repos\Objects and Classes - Lab\T04. Students\bin\Debug\netcoreapp3.1\T04. Students.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Objects and Classes - Lab\T04. Students\bin\Debug\netcoreapp3.1\T04. Students.dll
+C:\Users\demir\source\repos\Objects and Classes - Lab\T04. Students\bin\Debug\netcoreapp3.1\T04. Students.pdb
+C:\Users\demir\source\repos\Objects and Classes - Lab\T04. Students\obj\Debug\netcoreapp3.1\T04. Students.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Objects and Classes - Lab\T04. Students\obj\Debug\netcoreapp3.1\T04. Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Objects and Classes - Lab\T04. Students\obj\Debug\netcoreapp3.1\T04. Students.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Objects and Classes - Lab\T04. Students\obj\Debug\netcoreapp3.1\T04. Students.AssemblyInfo.cs
+C:\Users\demir\source\repos\Objects and Classes - Lab\T04. Students\obj\Debug\netcoreapp3.1\T04. Students.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Objects and Classes - Lab\T04. Students\obj\Debug\netcoreapp3.1\T04. Students.dll
+C:\Users\demir\source\repos\Objects and Classes - Lab\T04. Students\obj\Debug\netcoreapp3.1\T04. Students.pdb
+C:\Users\demir\source\repos\Objects and Classes - Lab\T04. Students\obj\Debug\netcoreapp3.1\T04. Students.genruntimeconfig.cache

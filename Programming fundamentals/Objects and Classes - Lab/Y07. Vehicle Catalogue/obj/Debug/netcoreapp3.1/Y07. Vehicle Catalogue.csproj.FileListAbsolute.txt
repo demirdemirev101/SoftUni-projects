@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\Y07. Vehicle Catalogue.exe
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\Y07. Vehicle Catalogue.deps.json
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\Y07. Vehicle Catalogue.runtimeconfig.json
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\Y07. Vehicle Catalogue.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\Y07. Vehicle Catalogue.dll
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y07. Vehicle Catalogue\bin\Debug\netcoreapp3.1\Y07. Vehicle Catalogue.pdb
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\Y07. Vehicle Catalogue.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\Y07. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\Y07. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\Y07. Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\Y07. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\Y07. Vehicle Catalogue.dll
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\Y07. Vehicle Catalogue.pdb
+C:\Users\demir\source\repos\Objects and Classes - Lab\Y07. Vehicle Catalogue\obj\Debug\netcoreapp3.1\Y07. Vehicle Catalogue.genruntimeconfig.cache

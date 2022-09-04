@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Objects and Classes - Lab\T01. Randomize Words\bin\Debug\netcoreapp3.1\T01. Randomize Words.exe
+C:\Users\demir\source\repos\Objects and Classes - Lab\T01. Randomize Words\bin\Debug\netcoreapp3.1\T01. Randomize Words.deps.json
+C:\Users\demir\source\repos\Objects and Classes - Lab\T01. Randomize Words\bin\Debug\netcoreapp3.1\T01. Randomize Words.runtimeconfig.json
+C:\Users\demir\source\repos\Objects and Classes - Lab\T01. Randomize Words\bin\Debug\netcoreapp3.1\T01. Randomize Words.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Objects and Classes - Lab\T01. Randomize Words\bin\Debug\netcoreapp3.1\T01. Randomize Words.dll
+C:\Users\demir\source\repos\Objects and Classes - Lab\T01. Randomize Words\bin\Debug\netcoreapp3.1\T01. Randomize Words.pdb
+C:\Users\demir\source\repos\Objects and Classes - Lab\T01. Randomize Words\obj\Debug\netcoreapp3.1\T01. Randomize Words.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Objects and Classes - Lab\T01. Randomize Words\obj\Debug\netcoreapp3.1\T01. Randomize Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Objects and Classes - Lab\T01. Randomize Words\obj\Debug\netcoreapp3.1\T01. Randomize Words.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Objects and Classes - Lab\T01. Randomize Words\obj\Debug\netcoreapp3.1\T01. Randomize Words.AssemblyInfo.cs
+C:\Users\demir\source\repos\Objects and Classes - Lab\T01. Randomize Words\obj\Debug\netcoreapp3.1\T01. Randomize Words.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Objects and Classes - Lab\T01. Randomize Words\obj\Debug\netcoreapp3.1\T01. Randomize Words.dll
+C:\Users\demir\source\repos\Objects and Classes - Lab\T01. Randomize Words\obj\Debug\netcoreapp3.1\T01. Randomize Words.pdb
+C:\Users\demir\source\repos\Objects and Classes - Lab\T01. Randomize Words\obj\Debug\netcoreapp3.1\T01. Randomize Words.genruntimeconfig.cache
