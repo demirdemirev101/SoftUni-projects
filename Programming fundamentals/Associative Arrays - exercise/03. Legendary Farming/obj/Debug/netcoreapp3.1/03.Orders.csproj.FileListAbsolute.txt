@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Associative Arrays - exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03.Orders.exe
+C:\Users\demir\source\repos\Associative Arrays - exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03.Orders.deps.json
+C:\Users\demir\source\repos\Associative Arrays - exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03.Orders.runtimeconfig.json
+C:\Users\demir\source\repos\Associative Arrays - exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03.Orders.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Associative Arrays - exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03.Orders.dll
+C:\Users\demir\source\repos\Associative Arrays - exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03.Orders.pdb
+C:\Users\demir\source\repos\Associative Arrays - exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03.Orders.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Associative Arrays - exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Associative Arrays - exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03.Orders.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Associative Arrays - exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03.Orders.AssemblyInfo.cs
+C:\Users\demir\source\repos\Associative Arrays - exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03.Orders.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Associative Arrays - exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03.Orders.dll
+C:\Users\demir\source\repos\Associative Arrays - exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03.Orders.pdb
+C:\Users\demir\source\repos\Associative Arrays - exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03.Orders.genruntimeconfig.cache

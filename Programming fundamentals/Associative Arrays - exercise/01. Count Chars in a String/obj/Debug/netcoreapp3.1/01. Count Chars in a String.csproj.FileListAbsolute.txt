@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Associative Arrays - exercise\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.exe
+C:\Users\demir\source\repos\Associative Arrays - exercise\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.deps.json
+C:\Users\demir\source\repos\Associative Arrays - exercise\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.runtimeconfig.json
+C:\Users\demir\source\repos\Associative Arrays - exercise\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Associative Arrays - exercise\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.dll
+C:\Users\demir\source\repos\Associative Arrays - exercise\01. Count Chars in a String\bin\Debug\netcoreapp3.1\01. Count Chars in a String.pdb
+C:\Users\demir\source\repos\Associative Arrays - exercise\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Associative Arrays - exercise\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Associative Arrays - exercise\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Associative Arrays - exercise\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.AssemblyInfo.cs
+C:\Users\demir\source\repos\Associative Arrays - exercise\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Associative Arrays - exercise\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.dll
+C:\Users\demir\source\repos\Associative Arrays - exercise\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.pdb
+C:\Users\demir\source\repos\Associative Arrays - exercise\01. Count Chars in a String\obj\Debug\netcoreapp3.1\01. Count Chars in a String.genruntimeconfig.cache

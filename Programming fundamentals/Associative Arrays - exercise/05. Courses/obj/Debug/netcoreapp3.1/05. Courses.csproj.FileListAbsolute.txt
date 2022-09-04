@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Associative Arrays - exercise\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.exe
+C:\Users\demir\source\repos\Associative Arrays - exercise\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.deps.json
+C:\Users\demir\source\repos\Associative Arrays - exercise\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.runtimeconfig.json
+C:\Users\demir\source\repos\Associative Arrays - exercise\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Associative Arrays - exercise\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.dll
+C:\Users\demir\source\repos\Associative Arrays - exercise\05. Courses\bin\Debug\netcoreapp3.1\05. Courses.pdb
+C:\Users\demir\source\repos\Associative Arrays - exercise\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Associative Arrays - exercise\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Associative Arrays - exercise\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Associative Arrays - exercise\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.AssemblyInfo.cs
+C:\Users\demir\source\repos\Associative Arrays - exercise\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Associative Arrays - exercise\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.dll
+C:\Users\demir\source\repos\Associative Arrays - exercise\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.pdb
+C:\Users\demir\source\repos\Associative Arrays - exercise\05. Courses\obj\Debug\netcoreapp3.1\05. Courses.genruntimeconfig.cache
