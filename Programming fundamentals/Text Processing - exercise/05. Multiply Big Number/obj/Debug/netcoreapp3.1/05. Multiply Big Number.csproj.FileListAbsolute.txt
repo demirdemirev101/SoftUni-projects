@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Text Processing - exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.exe
+C:\Users\demir\source\repos\Text Processing - exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.deps.json
+C:\Users\demir\source\repos\Text Processing - exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.runtimeconfig.json
+C:\Users\demir\source\repos\Text Processing - exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Text Processing - exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.dll
+C:\Users\demir\source\repos\Text Processing - exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.pdb
+C:\Users\demir\source\repos\Text Processing - exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Text Processing - exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Text Processing - exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Text Processing - exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.AssemblyInfo.cs
+C:\Users\demir\source\repos\Text Processing - exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Text Processing - exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.dll
+C:\Users\demir\source\repos\Text Processing - exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.pdb
+C:\Users\demir\source\repos\Text Processing - exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.genruntimeconfig.cache

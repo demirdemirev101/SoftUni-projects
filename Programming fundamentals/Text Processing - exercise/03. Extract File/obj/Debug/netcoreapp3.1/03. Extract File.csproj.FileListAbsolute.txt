@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Text Processing - exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.exe
+C:\Users\demir\source\repos\Text Processing - exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.deps.json
+C:\Users\demir\source\repos\Text Processing - exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.json
+C:\Users\demir\source\repos\Text Processing - exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Text Processing - exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.dll
+C:\Users\demir\source\repos\Text Processing - exercise\03. Extract File\bin\Debug\netcoreapp3.1\03. Extract File.pdb
+C:\Users\demir\source\repos\Text Processing - exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Text Processing - exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Text Processing - exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Text Processing - exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.AssemblyInfo.cs
+C:\Users\demir\source\repos\Text Processing - exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Text Processing - exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.dll
+C:\Users\demir\source\repos\Text Processing - exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.pdb
+C:\Users\demir\source\repos\Text Processing - exercise\03. Extract File\obj\Debug\netcoreapp3.1\03. Extract File.genruntimeconfig.cache

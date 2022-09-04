@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Text Processing - exercise\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.exe
+C:\Users\demir\source\repos\Text Processing - exercise\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.deps.json
+C:\Users\demir\source\repos\Text Processing - exercise\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.runtimeconfig.json
+C:\Users\demir\source\repos\Text Processing - exercise\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Text Processing - exercise\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.dll
+C:\Users\demir\source\repos\Text Processing - exercise\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.pdb
+C:\Users\demir\source\repos\Text Processing - exercise\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Text Processing - exercise\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Text Processing - exercise\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Text Processing - exercise\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.AssemblyInfo.cs
+C:\Users\demir\source\repos\Text Processing - exercise\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Text Processing - exercise\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.dll
+C:\Users\demir\source\repos\Text Processing - exercise\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.pdb
+C:\Users\demir\source\repos\Text Processing - exercise\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.genruntimeconfig.cache
