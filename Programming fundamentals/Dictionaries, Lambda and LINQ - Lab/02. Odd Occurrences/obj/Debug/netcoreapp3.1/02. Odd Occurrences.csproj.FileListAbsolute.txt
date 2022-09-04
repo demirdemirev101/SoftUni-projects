@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.exe
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.deps.json
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.runtimeconfig.json
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.dll
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.pdb
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.AssemblyInfo.cs
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.dll
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.pdb
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.genruntimeconfig.cache

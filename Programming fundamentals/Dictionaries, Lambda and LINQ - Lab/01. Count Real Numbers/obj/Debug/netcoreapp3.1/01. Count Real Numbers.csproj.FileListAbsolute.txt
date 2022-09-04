@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\bin\Debug\netcoreapp3.1\01. Count Real Numbers.exe
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\bin\Debug\netcoreapp3.1\01. Count Real Numbers.deps.json
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\bin\Debug\netcoreapp3.1\01. Count Real Numbers.runtimeconfig.json
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\bin\Debug\netcoreapp3.1\01. Count Real Numbers.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\bin\Debug\netcoreapp3.1\01. Count Real Numbers.dll
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\bin\Debug\netcoreapp3.1\01. Count Real Numbers.pdb
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\netcoreapp3.1\01. Count Real Numbers.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\netcoreapp3.1\01. Count Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\netcoreapp3.1\01. Count Real Numbers.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\netcoreapp3.1\01. Count Real Numbers.AssemblyInfo.cs
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\netcoreapp3.1\01. Count Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\netcoreapp3.1\01. Count Real Numbers.dll
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\netcoreapp3.1\01. Count Real Numbers.pdb
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\01. Count Real Numbers\obj\Debug\netcoreapp3.1\01. Count Real Numbers.genruntimeconfig.cache

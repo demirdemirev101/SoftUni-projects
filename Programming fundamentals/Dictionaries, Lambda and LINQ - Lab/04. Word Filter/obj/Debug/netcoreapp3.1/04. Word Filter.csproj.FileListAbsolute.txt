@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.exe
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.deps.json
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.runtimeconfig.json
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.dll
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\04. Word Filter\bin\Debug\netcoreapp3.1\04. Word Filter.pdb
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.AssemblyInfo.cs
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.dll
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.pdb
+C:\Users\demir\source\repos\Dictionaries, Lambda and LINQ - Lab\04. Word Filter\obj\Debug\netcoreapp3.1\04. Word Filter.genruntimeconfig.cache
