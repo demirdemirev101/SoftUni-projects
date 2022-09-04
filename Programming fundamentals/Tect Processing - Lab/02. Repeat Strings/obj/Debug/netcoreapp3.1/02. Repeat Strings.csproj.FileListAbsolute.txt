@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Tect Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.exe
+C:\Users\demir\source\repos\Tect Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.deps.json
+C:\Users\demir\source\repos\Tect Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.runtimeconfig.json
+C:\Users\demir\source\repos\Tect Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Tect Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.dll
+C:\Users\demir\source\repos\Tect Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.pdb
+C:\Users\demir\source\repos\Tect Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Tect Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Tect Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Tect Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.AssemblyInfo.cs
+C:\Users\demir\source\repos\Tect Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Tect Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.dll
+C:\Users\demir\source\repos\Tect Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.pdb
+C:\Users\demir\source\repos\Tect Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.genruntimeconfig.cache

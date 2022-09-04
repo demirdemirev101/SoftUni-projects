@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Tect Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.exe
+C:\Users\demir\source\repos\Tect Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.deps.json
+C:\Users\demir\source\repos\Tect Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.json
+C:\Users\demir\source\repos\Tect Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Tect Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.dll
+C:\Users\demir\source\repos\Tect Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.pdb
+C:\Users\demir\source\repos\Tect Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Tect Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Tect Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Tect Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfo.cs
+C:\Users\demir\source\repos\Tect Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Tect Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.dll
+C:\Users\demir\source\repos\Tect Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.pdb
+C:\Users\demir\source\repos\Tect Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.genruntimeconfig.cache

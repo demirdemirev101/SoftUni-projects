@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Tect Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.exe
+C:\Users\demir\source\repos\Tect Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.deps.json
+C:\Users\demir\source\repos\Tect Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.json
+C:\Users\demir\source\repos\Tect Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Tect Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.dll
+C:\Users\demir\source\repos\Tect Processing - Lab\03. Substring\bin\Debug\netcoreapp3.1\03. Substring.pdb
+C:\Users\demir\source\repos\Tect Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Tect Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Tect Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Tect Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.AssemblyInfo.cs
+C:\Users\demir\source\repos\Tect Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Tect Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.dll
+C:\Users\demir\source\repos\Tect Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.pdb
+C:\Users\demir\source\repos\Tect Processing - Lab\03. Substring\obj\Debug\netcoreapp3.1\03. Substring.genruntimeconfig.cache

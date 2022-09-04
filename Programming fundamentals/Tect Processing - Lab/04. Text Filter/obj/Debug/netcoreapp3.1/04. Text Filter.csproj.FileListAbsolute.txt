@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Tect Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.exe
+C:\Users\demir\source\repos\Tect Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.deps.json
+C:\Users\demir\source\repos\Tect Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.runtimeconfig.json
+C:\Users\demir\source\repos\Tect Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Tect Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.dll
+C:\Users\demir\source\repos\Tect Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.pdb
+C:\Users\demir\source\repos\Tect Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Tect Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Tect Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Tect Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.AssemblyInfo.cs
+C:\Users\demir\source\repos\Tect Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Tect Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.dll
+C:\Users\demir\source\repos\Tect Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.pdb
+C:\Users\demir\source\repos\Tect Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.genruntimeconfig.cache
