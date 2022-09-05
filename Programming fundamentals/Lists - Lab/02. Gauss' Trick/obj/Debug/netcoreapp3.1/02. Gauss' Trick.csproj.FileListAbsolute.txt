@@ -1,0 +1,14 @@
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.exe
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.deps.json
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.runtimeconfig.json
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.runtimeconfig.dev.json
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.dll
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.pdb
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.csproj.AssemblyReference.cache
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.AssemblyInfoInputs.cache
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.AssemblyInfo.cs
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.dll
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.pdb
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.genruntimeconfig.cache

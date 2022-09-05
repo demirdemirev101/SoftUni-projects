@@ -1,0 +1,14 @@
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.exe
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.deps.json
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.dll
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.pdb
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.csproj.AssemblyReference.cache
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.dll
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.pdb
+D:\C# programming\Fundamentals\SoftUni-projects\Programming fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.genruntimeconfig.cache

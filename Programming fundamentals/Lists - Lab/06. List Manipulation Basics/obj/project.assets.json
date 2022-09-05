@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\06. List Manipulation Basics\\06. List Manipulation Basics.csproj",
+      "projectUniqueName": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\06. List Manipulation Basics\\06. List Manipulation Basics.csproj",
       "projectName": "06. List Manipulation Basics",
-      "projectPath": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\06. List Manipulation Basics\\06. List Manipulation Basics.csproj",
+      "projectPath": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\06. List Manipulation Basics\\06. List Manipulation Basics.csproj",
       "packagesPath": "C:\\Users\\demir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\06. List Manipulation Basics\\obj\\",
+      "outputPath": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\06. List Manipulation Basics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\demir\\AppData\\Roaming\\NuGet\\NuGet.Config",

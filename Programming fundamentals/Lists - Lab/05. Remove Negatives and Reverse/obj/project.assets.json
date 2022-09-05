@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\05. Remove Negatives and Reverse\\05. Remove Negatives and Reverse.csproj",
+      "projectUniqueName": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\05. Remove Negatives and Reverse\\05. Remove Negatives and Reverse.csproj",
       "projectName": "05. Remove Negatives and Reverse",
-      "projectPath": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\05. Remove Negatives and Reverse\\05. Remove Negatives and Reverse.csproj",
+      "projectPath": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\05. Remove Negatives and Reverse\\05. Remove Negatives and Reverse.csproj",
       "packagesPath": "C:\\Users\\demir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\05. Remove Negatives and Reverse\\obj\\",
+      "outputPath": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\05. Remove Negatives and Reverse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\demir\\AppData\\Roaming\\NuGet\\NuGet.Config",

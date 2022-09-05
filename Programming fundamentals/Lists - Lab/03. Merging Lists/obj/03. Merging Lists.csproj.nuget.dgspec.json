@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\demir\\source\\repos\\Lists - Lab\\03. Merging Lists\\03. Merging Lists.csproj": {}
+    "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\03. Merging Lists\\03. Merging Lists.csproj": {}
   },
   "projects": {
-    "C:\\Users\\demir\\source\\repos\\Lists - Lab\\03. Merging Lists\\03. Merging Lists.csproj": {
+    "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\03. Merging Lists\\03. Merging Lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\03. Merging Lists\\03. Merging Lists.csproj",
+        "projectUniqueName": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\03. Merging Lists\\03. Merging Lists.csproj",
         "projectName": "03. Merging Lists",
-        "projectPath": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\03. Merging Lists\\03. Merging Lists.csproj",
+        "projectPath": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\03. Merging Lists\\03. Merging Lists.csproj",
         "packagesPath": "C:\\Users\\demir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\03. Merging Lists\\obj\\",
+        "outputPath": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\03. Merging Lists\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\demir\\AppData\\Roaming\\NuGet\\NuGet.Config",

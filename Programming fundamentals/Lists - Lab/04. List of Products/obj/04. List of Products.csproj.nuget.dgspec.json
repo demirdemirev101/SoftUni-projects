@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\demir\\source\\repos\\Lists - Lab\\04. List of Products\\04. List of Products.csproj": {}
+    "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\04. List of Products\\04. List of Products.csproj": {}
   },
   "projects": {
-    "C:\\Users\\demir\\source\\repos\\Lists - Lab\\04. List of Products\\04. List of Products.csproj": {
+    "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\04. List of Products\\04. List of Products.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\04. List of Products\\04. List of Products.csproj",
+        "projectUniqueName": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\04. List of Products\\04. List of Products.csproj",
         "projectName": "04. List of Products",
-        "projectPath": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\04. List of Products\\04. List of Products.csproj",
+        "projectPath": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\04. List of Products\\04. List of Products.csproj",
         "packagesPath": "C:\\Users\\demir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\04. List of Products\\obj\\",
+        "outputPath": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\04. List of Products\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\demir\\AppData\\Roaming\\NuGet\\NuGet.Config",

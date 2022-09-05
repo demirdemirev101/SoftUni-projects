@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\01. Sum Adjacent Equal Numbers\\01. Sum Adjacent Equal Numbers.csproj",
+      "projectUniqueName": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\01. Sum Adjacent Equal Numbers\\01. Sum Adjacent Equal Numbers.csproj",
       "projectName": "01. Sum Adjacent Equal Numbers",
-      "projectPath": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\01. Sum Adjacent Equal Numbers\\01. Sum Adjacent Equal Numbers.csproj",
+      "projectPath": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\01. Sum Adjacent Equal Numbers\\01. Sum Adjacent Equal Numbers.csproj",
       "packagesPath": "C:\\Users\\demir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\01. Sum Adjacent Equal Numbers\\obj\\",
+      "outputPath": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\01. Sum Adjacent Equal Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\demir\\AppData\\Roaming\\NuGet\\NuGet.Config",

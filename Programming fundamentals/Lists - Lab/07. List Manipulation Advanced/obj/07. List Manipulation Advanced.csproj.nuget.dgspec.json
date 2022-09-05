@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\demir\\source\\repos\\Lists - Lab\\07. List Manipulation Advanced\\07. List Manipulation Advanced.csproj": {}
+    "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\07. List Manipulation Advanced\\07. List Manipulation Advanced.csproj": {}
   },
   "projects": {
-    "C:\\Users\\demir\\source\\repos\\Lists - Lab\\07. List Manipulation Advanced\\07. List Manipulation Advanced.csproj": {
+    "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\07. List Manipulation Advanced\\07. List Manipulation Advanced.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\07. List Manipulation Advanced\\07. List Manipulation Advanced.csproj",
+        "projectUniqueName": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\07. List Manipulation Advanced\\07. List Manipulation Advanced.csproj",
         "projectName": "07. List Manipulation Advanced",
-        "projectPath": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\07. List Manipulation Advanced\\07. List Manipulation Advanced.csproj",
+        "projectPath": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\07. List Manipulation Advanced\\07. List Manipulation Advanced.csproj",
         "packagesPath": "C:\\Users\\demir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\demir\\source\\repos\\Lists - Lab\\07. List Manipulation Advanced\\obj\\",
+        "outputPath": "D:\\C# programming\\Fundamentals\\SoftUni-projects\\Programming fundamentals\\Lists - Lab\\07. List Manipulation Advanced\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\demir\\AppData\\Roaming\\NuGet\\NuGet.Config",
