@@ -1,0 +1,12 @@
+﻿<body style="background-color:antiquewhite">
+	<h1 class ="text-danger">This is Web Calculator.</h1>
+
+<form method="POST">
+	<input type="text" placeholder="Enter number" name="firstNumber" pattern="^\d+\.?\d*$"/>
+	<input type="text" placeholder="Enter action" name="operation" />
+	<input type="text" placeholder="Enter number" name="secondNumber" pattern="^\d+\.?\d*$" />
+	<input type="submit" value="Submit" />
+</form>
+
+<h3 class="text-danger mt-5">Result: @ViewBag.Result</h3>
+</body>

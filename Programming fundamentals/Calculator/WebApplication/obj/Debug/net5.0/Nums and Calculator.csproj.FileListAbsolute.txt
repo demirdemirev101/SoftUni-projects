@@ -1,0 +1,40 @@
+C:\Users\demir\source\repos\Calculator\WebApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\demir\source\repos\Calculator\WebApplication\bin\Debug\net5.0\appsettings.json
+C:\Users\demir\source\repos\Calculator\WebApplication\bin\Debug\net5.0\Nums and Calculator.exe
+C:\Users\demir\source\repos\Calculator\WebApplication\bin\Debug\net5.0\Nums and Calculator.deps.json
+C:\Users\demir\source\repos\Calculator\WebApplication\bin\Debug\net5.0\Nums and Calculator.runtimeconfig.json
+C:\Users\demir\source\repos\Calculator\WebApplication\bin\Debug\net5.0\Nums and Calculator.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Calculator\WebApplication\bin\Debug\net5.0\Nums and Calculator.dll
+C:\Users\demir\source\repos\Calculator\WebApplication\bin\Debug\net5.0\Nums and Calculator.pdb
+C:\Users\demir\source\repos\Calculator\WebApplication\bin\Debug\net5.0\Nums and Calculator.Views.dll
+C:\Users\demir\source\repos\Calculator\WebApplication\bin\Debug\net5.0\Nums and Calculator.Views.pdb
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.AssemblyInfo.cs
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.RazorAssemblyInfo.cache
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.RazorAssemblyInfo.cs
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\scopedcss\bundle\Nums and Calculator.styles.css
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\staticwebassets\Nums and Calculator.StaticWebAssets.Manifest.cache
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.TagHelpers.input.cache
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.TagHelpers.output.cache
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.RazorCoreGenerate.cache
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Calculator.cshtml.g.cs
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Razor\Views\Home\Numbers.cshtml.g.cs
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.RazorTargetAssemblyInfo.cache
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.RazorTargetAssemblyInfo.cs
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.Views.pdb
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.dll
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\refint\Nums and Calculator.dll
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.pdb
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.genruntimeconfig.cache
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\ref\Nums and Calculator.dll
+C:\Users\demir\source\repos\Calculator\WebApplication\obj\Debug\net5.0\Nums and Calculator.csproj.CopyComplete
