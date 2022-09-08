@@ -5,11 +5,11 @@ Softuni is licensed programming academy, which teach the future software enginee
 
 2.Fundamentals
 
-3.Java Advanced
+3.C# Advanced
 
-3.1.Java Advanced
+3.1.C# Advanced
 
-3.2.Java OOP
+3.2.C# OOP
 
 4.C# Database
 
