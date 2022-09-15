@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.exe
+C:\Users\demir\source\repos\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.deps.json
+C:\Users\demir\source\repos\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.runtimeconfig.json
+C:\Users\demir\source\repos\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.dll
+C:\Users\demir\source\repos\Stacks and Queues - Lab\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.pdb
+C:\Users\demir\source\repos\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.AssemblyInfo.cs
+C:\Users\demir\source\repos\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.dll
+C:\Users\demir\source\repos\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.pdb
+C:\Users\demir\source\repos\Stacks and Queues - Lab\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.genruntimeconfig.cache

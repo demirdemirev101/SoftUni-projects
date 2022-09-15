@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.exe
+C:\Users\demir\source\repos\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.deps.json
+C:\Users\demir\source\repos\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.runtimeconfig.json
+C:\Users\demir\source\repos\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.dll
+C:\Users\demir\source\repos\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.pdb
+C:\Users\demir\source\repos\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.AssemblyInfo.cs
+C:\Users\demir\source\repos\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.dll
+C:\Users\demir\source\repos\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.pdb
+C:\Users\demir\source\repos\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.exe
+C:\Users\demir\source\repos\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.deps.json
+C:\Users\demir\source\repos\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.runtimeconfig.json
+C:\Users\demir\source\repos\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.dll
+C:\Users\demir\source\repos\Stacks and Queues - Lab\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.pdb
+C:\Users\demir\source\repos\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.AssemblyInfo.cs
+C:\Users\demir\source\repos\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.dll
+C:\Users\demir\source\repos\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.pdb
+C:\Users\demir\source\repos\Stacks and Queues - Lab\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.genruntimeconfig.cache
