@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Stacks and Queues - exercise\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.exe
+C:\Users\demir\source\repos\Stacks and Queues - exercise\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.deps.json
+C:\Users\demir\source\repos\Stacks and Queues - exercise\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.runtimeconfig.json
+C:\Users\demir\source\repos\Stacks and Queues - exercise\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Stacks and Queues - exercise\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.dll
+C:\Users\demir\source\repos\Stacks and Queues - exercise\06. Songs Queue\bin\Debug\netcoreapp3.1\06. Songs Queue.pdb
+C:\Users\demir\source\repos\Stacks and Queues - exercise\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Stacks and Queues - exercise\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Stacks and Queues - exercise\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Stacks and Queues - exercise\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.AssemblyInfo.cs
+C:\Users\demir\source\repos\Stacks and Queues - exercise\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Stacks and Queues - exercise\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.dll
+C:\Users\demir\source\repos\Stacks and Queues - exercise\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.pdb
+C:\Users\demir\source\repos\Stacks and Queues - exercise\06. Songs Queue\obj\Debug\netcoreapp3.1\06. Songs Queue.genruntimeconfig.cache
