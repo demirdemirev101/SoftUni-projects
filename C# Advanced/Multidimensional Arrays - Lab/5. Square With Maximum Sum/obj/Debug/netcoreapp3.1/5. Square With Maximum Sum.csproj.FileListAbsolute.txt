@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.exe
+C:\Users\demir\source\repos\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.deps.json
+C:\Users\demir\source\repos\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.runtimeconfig.json
+C:\Users\demir\source\repos\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.dll
+C:\Users\demir\source\repos\Multidimensional Arrays - Lab\5. Square With Maximum Sum\bin\Debug\netcoreapp3.1\5. Square With Maximum Sum.pdb
+C:\Users\demir\source\repos\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.AssemblyInfo.cs
+C:\Users\demir\source\repos\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.dll
+C:\Users\demir\source\repos\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.pdb
+C:\Users\demir\source\repos\Multidimensional Arrays - Lab\5. Square With Maximum Sum\obj\Debug\netcoreapp3.1\5. Square With Maximum Sum.genruntimeconfig.cache
