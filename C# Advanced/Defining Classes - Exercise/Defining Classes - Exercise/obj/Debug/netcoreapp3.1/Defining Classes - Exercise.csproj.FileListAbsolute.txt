@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Defining Classes - Exercise\Defining Classes - Exercise\bin\Debug\netcoreapp3.1\Defining Classes - Exercise.exe
+C:\Users\demir\source\repos\Defining Classes - Exercise\Defining Classes - Exercise\bin\Debug\netcoreapp3.1\Defining Classes - Exercise.deps.json
+C:\Users\demir\source\repos\Defining Classes - Exercise\Defining Classes - Exercise\bin\Debug\netcoreapp3.1\Defining Classes - Exercise.runtimeconfig.json
+C:\Users\demir\source\repos\Defining Classes - Exercise\Defining Classes - Exercise\bin\Debug\netcoreapp3.1\Defining Classes - Exercise.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Defining Classes - Exercise\Defining Classes - Exercise\bin\Debug\netcoreapp3.1\Defining Classes - Exercise.dll
+C:\Users\demir\source\repos\Defining Classes - Exercise\Defining Classes - Exercise\bin\Debug\netcoreapp3.1\Defining Classes - Exercise.pdb
+C:\Users\demir\source\repos\Defining Classes - Exercise\Defining Classes - Exercise\obj\Debug\netcoreapp3.1\Defining Classes - Exercise.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Defining Classes - Exercise\Defining Classes - Exercise\obj\Debug\netcoreapp3.1\Defining Classes - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Defining Classes - Exercise\Defining Classes - Exercise\obj\Debug\netcoreapp3.1\Defining Classes - Exercise.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Defining Classes - Exercise\Defining Classes - Exercise\obj\Debug\netcoreapp3.1\Defining Classes - Exercise.AssemblyInfo.cs
+C:\Users\demir\source\repos\Defining Classes - Exercise\Defining Classes - Exercise\obj\Debug\netcoreapp3.1\Defining Classes - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Defining Classes - Exercise\Defining Classes - Exercise\obj\Debug\netcoreapp3.1\Defining Classes - Exercise.dll
+C:\Users\demir\source\repos\Defining Classes - Exercise\Defining Classes - Exercise\obj\Debug\netcoreapp3.1\Defining Classes - Exercise.pdb
+C:\Users\demir\source\repos\Defining Classes - Exercise\Defining Classes - Exercise\obj\Debug\netcoreapp3.1\Defining Classes - Exercise.genruntimeconfig.cache
