@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.exe
+C:\Users\demir\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.deps.json
+C:\Users\demir\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.runtimeconfig.json
+C:\Users\demir\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.dll
+C:\Users\demir\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\bin\Debug\netcoreapp3.1\2. Squares in Matrix.pdb
+C:\Users\demir\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.AssemblyInfo.cs
+C:\Users\demir\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.dll
+C:\Users\demir\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.pdb
+C:\Users\demir\source\repos\Multidimensional Arrays - Exercise\2. Squares in Matrix\obj\Debug\netcoreapp3.1\2. Squares in Matrix.genruntimeconfig.cache
