@@ -1,0 +1,16 @@
+C:\Users\demir\source\repos\Streams, Files and Directories - Advanced\EvenLines\bin\Debug\net5.0\EvenLines.exe
+C:\Users\demir\source\repos\Streams, Files and Directories - Advanced\EvenLines\bin\Debug\net5.0\EvenLines.deps.json
+C:\Users\demir\source\repos\Streams, Files and Directories - Advanced\EvenLines\bin\Debug\net5.0\EvenLines.runtimeconfig.json
+C:\Users\demir\source\repos\Streams, Files and Directories - Advanced\EvenLines\bin\Debug\net5.0\EvenLines.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Streams, Files and Directories - Advanced\EvenLines\bin\Debug\net5.0\EvenLines.dll
+C:\Users\demir\source\repos\Streams, Files and Directories - Advanced\EvenLines\bin\Debug\net5.0\EvenLines.pdb
+C:\Users\demir\source\repos\Streams, Files and Directories - Advanced\EvenLines\obj\Debug\net5.0\EvenLines.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Streams, Files and Directories - Advanced\EvenLines\obj\Debug\net5.0\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Streams, Files and Directories - Advanced\EvenLines\obj\Debug\net5.0\EvenLines.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Streams, Files and Directories - Advanced\EvenLines\obj\Debug\net5.0\EvenLines.AssemblyInfo.cs
+C:\Users\demir\source\repos\Streams, Files and Directories - Advanced\EvenLines\obj\Debug\net5.0\EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Streams, Files and Directories - Advanced\EvenLines\obj\Debug\net5.0\EvenLines.dll
+C:\Users\demir\source\repos\Streams, Files and Directories - Advanced\EvenLines\obj\Debug\net5.0\refint\EvenLines.dll
+C:\Users\demir\source\repos\Streams, Files and Directories - Advanced\EvenLines\obj\Debug\net5.0\EvenLines.pdb
+C:\Users\demir\source\repos\Streams, Files and Directories - Advanced\EvenLines\obj\Debug\net5.0\EvenLines.genruntimeconfig.cache
+C:\Users\demir\source\repos\Streams, Files and Directories - Advanced\EvenLines\obj\Debug\net5.0\ref\EvenLines.dll
