@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Users\demir\source\repos\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Users\demir\source\repos\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Users\demir\source\repos\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Users\demir\source\repos\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\demir\source\repos\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\Users\demir\source\repos\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Users\demir\source\repos\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\demir\source\repos\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

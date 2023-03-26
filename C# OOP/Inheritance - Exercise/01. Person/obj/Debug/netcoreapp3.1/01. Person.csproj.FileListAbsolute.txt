@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp3.1\01. Person.exe
+C:\Users\demir\source\repos\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp3.1\01. Person.deps.json
+C:\Users\demir\source\repos\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp3.1\01. Person.runtimeconfig.json
+C:\Users\demir\source\repos\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp3.1\01. Person.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp3.1\01. Person.dll
+C:\Users\demir\source\repos\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp3.1\01. Person.pdb
+C:\Users\demir\source\repos\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp3.1\01. Person.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp3.1\01. Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp3.1\01. Person.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp3.1\01. Person.AssemblyInfo.cs
+C:\Users\demir\source\repos\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp3.1\01. Person.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp3.1\01. Person.dll
+C:\Users\demir\source\repos\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp3.1\01. Person.pdb
+C:\Users\demir\source\repos\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp3.1\01. Person.genruntimeconfig.cache
