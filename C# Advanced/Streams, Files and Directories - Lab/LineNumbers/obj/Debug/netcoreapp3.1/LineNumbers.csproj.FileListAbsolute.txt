@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache

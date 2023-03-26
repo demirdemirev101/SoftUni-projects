@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\WordCount\bin\Debug\netcoreapp3.1\WordCount.exe
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\WordCount\bin\Debug\netcoreapp3.1\WordCount.deps.json
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.json
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\WordCount\bin\Debug\netcoreapp3.1\WordCount.dll
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\WordCount\bin\Debug\netcoreapp3.1\WordCount.pdb
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\WordCount\obj\Debug\netcoreapp3.1\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfo.cs
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\WordCount\obj\Debug\netcoreapp3.1\WordCount.dll
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\WordCount\obj\Debug\netcoreapp3.1\WordCount.pdb
+C:\Users\demir\source\repos\Streams, Files and Directories - Lab\WordCount\obj\Debug\netcoreapp3.1\WordCount.genruntimeconfig.cache

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddLines", "OddLines\OddLines.csproj", "{72D3ADF0-D81E-4AD4-BC37-468B5ED7374F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineNumbers", "LineNumbers\LineNumbers.csproj", "{EBA37E93-4260-479A-924A-A141E22F48C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCount", "WordCount\WordCount.csproj", "{3AD4C390-AE8E-4DC7-915E-545C5F5BBA8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72D3ADF0-D81E-4AD4-BC37-468B5ED7374F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D3ADF0-D81E-4AD4-BC37-468B5ED7374F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D3ADF0-D81E-4AD4-BC37-468B5ED7374F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D3ADF0-D81E-4AD4-BC37-468B5ED7374F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA37E93-4260-479A-924A-A141E22F48C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA37E93-4260-479A-924A-A141E22F48C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA37E93-4260-479A-924A-A141E22F48C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA37E93-4260-479A-924A-A141E22F48C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AD4C390-AE8E-4DC7-915E-545C5F5BBA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD4C390-AE8E-4DC7-915E-545C5F5BBA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD4C390-AE8E-4DC7-915E-545C5F5BBA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD4C390-AE8E-4DC7-915E-545C5F5BBA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0306DFE1-A321-4FC3-B524-C33357740028}
+	EndGlobalSection
+EndGlobal
