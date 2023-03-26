@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.exe
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.deps.json
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.runtimeconfig.json
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.runtimeconfig.dev.json
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.dll
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.pdb
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.AssemblyInfo.cs
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.dll
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.pdb
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.genruntimeconfig.cache

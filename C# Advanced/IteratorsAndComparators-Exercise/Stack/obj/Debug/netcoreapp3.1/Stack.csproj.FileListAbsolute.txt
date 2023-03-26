@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\demir\source\repos\IteratorsAndComparators-Exercise\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache
