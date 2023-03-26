@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\interfaces - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+C:\Users\demir\source\repos\interfaces - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+C:\Users\demir\source\repos\interfaces - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+C:\Users\demir\source\repos\interfaces - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+C:\Users\demir\source\repos\interfaces - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+C:\Users\demir\source\repos\interfaces - Lab\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\demir\source\repos\interfaces - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\interfaces - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\interfaces - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\interfaces - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+C:\Users\demir\source\repos\interfaces - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\interfaces - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+C:\Users\demir\source\repos\interfaces - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\demir\source\repos\interfaces - Lab\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache
