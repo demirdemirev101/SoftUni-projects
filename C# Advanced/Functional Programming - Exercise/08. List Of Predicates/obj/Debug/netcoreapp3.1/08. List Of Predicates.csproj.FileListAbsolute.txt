@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.exe
+C:\Users\demir\source\repos\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.deps.json
+C:\Users\demir\source\repos\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.runtimeconfig.json
+C:\Users\demir\source\repos\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.dll
+C:\Users\demir\source\repos\Functional Programming - Exercise\08. List Of Predicates\bin\Debug\netcoreapp3.1\08. List Of Predicates.pdb
+C:\Users\demir\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.AssemblyInfo.cs
+C:\Users\demir\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.dll
+C:\Users\demir\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.pdb
+C:\Users\demir\source\repos\Functional Programming - Exercise\08. List Of Predicates\obj\Debug\netcoreapp3.1\08. List Of Predicates.genruntimeconfig.cache
