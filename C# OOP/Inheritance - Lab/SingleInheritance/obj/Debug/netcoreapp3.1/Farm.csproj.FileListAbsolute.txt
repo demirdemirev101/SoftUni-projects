@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Inheritance - Lab\SingleInheritance\bin\Debug\netcoreapp3.1\Farm.exe
+C:\Users\demir\source\repos\Inheritance - Lab\SingleInheritance\bin\Debug\netcoreapp3.1\Farm.deps.json
+C:\Users\demir\source\repos\Inheritance - Lab\SingleInheritance\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.json
+C:\Users\demir\source\repos\Inheritance - Lab\SingleInheritance\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Inheritance - Lab\SingleInheritance\bin\Debug\netcoreapp3.1\Farm.dll
+C:\Users\demir\source\repos\Inheritance - Lab\SingleInheritance\bin\Debug\netcoreapp3.1\Farm.pdb
+C:\Users\demir\source\repos\Inheritance - Lab\SingleInheritance\obj\Debug\netcoreapp3.1\Farm.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Inheritance - Lab\SingleInheritance\obj\Debug\netcoreapp3.1\Farm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Inheritance - Lab\SingleInheritance\obj\Debug\netcoreapp3.1\Farm.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Inheritance - Lab\SingleInheritance\obj\Debug\netcoreapp3.1\Farm.AssemblyInfo.cs
+C:\Users\demir\source\repos\Inheritance - Lab\SingleInheritance\obj\Debug\netcoreapp3.1\Farm.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Inheritance - Lab\SingleInheritance\obj\Debug\netcoreapp3.1\Farm.dll
+C:\Users\demir\source\repos\Inheritance - Lab\SingleInheritance\obj\Debug\netcoreapp3.1\Farm.pdb
+C:\Users\demir\source\repos\Inheritance - Lab\SingleInheritance\obj\Debug\netcoreapp3.1\Farm.genruntimeconfig.cache
