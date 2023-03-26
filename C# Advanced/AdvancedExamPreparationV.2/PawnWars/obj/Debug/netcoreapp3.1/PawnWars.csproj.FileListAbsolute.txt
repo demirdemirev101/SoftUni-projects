@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\PawnWars\bin\Debug\netcoreapp3.1\PawnWars.exe
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\PawnWars\bin\Debug\netcoreapp3.1\PawnWars.deps.json
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\PawnWars\bin\Debug\netcoreapp3.1\PawnWars.runtimeconfig.json
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\PawnWars\bin\Debug\netcoreapp3.1\PawnWars.runtimeconfig.dev.json
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\PawnWars\bin\Debug\netcoreapp3.1\PawnWars.dll
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\PawnWars\bin\Debug\netcoreapp3.1\PawnWars.pdb
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\PawnWars\obj\Debug\netcoreapp3.1\PawnWars.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\PawnWars\obj\Debug\netcoreapp3.1\PawnWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\PawnWars\obj\Debug\netcoreapp3.1\PawnWars.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\PawnWars\obj\Debug\netcoreapp3.1\PawnWars.AssemblyInfo.cs
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\PawnWars\obj\Debug\netcoreapp3.1\PawnWars.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\PawnWars\obj\Debug\netcoreapp3.1\PawnWars.dll
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\PawnWars\obj\Debug\netcoreapp3.1\PawnWars.pdb
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\PawnWars\obj\Debug\netcoreapp3.1\PawnWars.genruntimeconfig.cache

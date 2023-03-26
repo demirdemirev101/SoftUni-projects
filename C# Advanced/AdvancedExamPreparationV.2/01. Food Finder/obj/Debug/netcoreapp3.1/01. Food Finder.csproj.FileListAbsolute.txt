@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.exe
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.deps.json
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.runtimeconfig.json
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.runtimeconfig.dev.json
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.dll
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.pdb
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.AssemblyInfo.cs
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.dll
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.pdb
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.genruntimeconfig.cache

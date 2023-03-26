@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\RallyRacing\bin\Debug\netcoreapp3.1\RallyRacing.exe
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\RallyRacing\bin\Debug\netcoreapp3.1\RallyRacing.deps.json
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\RallyRacing\bin\Debug\netcoreapp3.1\RallyRacing.runtimeconfig.json
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\RallyRacing\bin\Debug\netcoreapp3.1\RallyRacing.runtimeconfig.dev.json
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\RallyRacing\bin\Debug\netcoreapp3.1\RallyRacing.dll
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\RallyRacing\bin\Debug\netcoreapp3.1\RallyRacing.pdb
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\RallyRacing\obj\Debug\netcoreapp3.1\RallyRacing.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\RallyRacing\obj\Debug\netcoreapp3.1\RallyRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\RallyRacing\obj\Debug\netcoreapp3.1\RallyRacing.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\RallyRacing\obj\Debug\netcoreapp3.1\RallyRacing.AssemblyInfo.cs
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\RallyRacing\obj\Debug\netcoreapp3.1\RallyRacing.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\RallyRacing\obj\Debug\netcoreapp3.1\RallyRacing.dll
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\RallyRacing\obj\Debug\netcoreapp3.1\RallyRacing.pdb
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\RallyRacing\obj\Debug\netcoreapp3.1\RallyRacing.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\EnergyDrinks\bin\Debug\netcoreapp3.1\EnergyDrinks.exe
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\EnergyDrinks\bin\Debug\netcoreapp3.1\EnergyDrinks.deps.json
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\EnergyDrinks\bin\Debug\netcoreapp3.1\EnergyDrinks.runtimeconfig.json
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\EnergyDrinks\bin\Debug\netcoreapp3.1\EnergyDrinks.runtimeconfig.dev.json
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\EnergyDrinks\bin\Debug\netcoreapp3.1\EnergyDrinks.dll
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\EnergyDrinks\bin\Debug\netcoreapp3.1\EnergyDrinks.pdb
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\EnergyDrinks\obj\Debug\netcoreapp3.1\EnergyDrinks.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\EnergyDrinks\obj\Debug\netcoreapp3.1\EnergyDrinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\EnergyDrinks\obj\Debug\netcoreapp3.1\EnergyDrinks.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\EnergyDrinks\obj\Debug\netcoreapp3.1\EnergyDrinks.AssemblyInfo.cs
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\EnergyDrinks\obj\Debug\netcoreapp3.1\EnergyDrinks.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\EnergyDrinks\obj\Debug\netcoreapp3.1\EnergyDrinks.dll
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\EnergyDrinks\obj\Debug\netcoreapp3.1\EnergyDrinks.pdb
+C:\Users\demir\source\repos\AdvancedExamPreparationV.2\EnergyDrinks\obj\Debug\netcoreapp3.1\EnergyDrinks.genruntimeconfig.cache
