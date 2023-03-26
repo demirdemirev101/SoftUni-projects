@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Generics - exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.exe
+C:\Users\demir\source\repos\Generics - exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.deps.json
+C:\Users\demir\source\repos\Generics - exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.json
+C:\Users\demir\source\repos\Generics - exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Generics - exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.dll
+C:\Users\demir\source\repos\Generics - exercise\Tuple\bin\Debug\netcoreapp3.1\Tuple.pdb
+C:\Users\demir\source\repos\Generics - exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Generics - exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Generics - exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Generics - exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfo.cs
+C:\Users\demir\source\repos\Generics - exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Generics - exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.dll
+C:\Users\demir\source\repos\Generics - exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.pdb
+C:\Users\demir\source\repos\Generics - exercise\Tuple\obj\Debug\netcoreapp3.1\Tuple.genruntimeconfig.cache

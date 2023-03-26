@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Generics - exercise\SwapMethod\bin\Debug\netcoreapp3.1\SwapMethod.exe
+C:\Users\demir\source\repos\Generics - exercise\SwapMethod\bin\Debug\netcoreapp3.1\SwapMethod.deps.json
+C:\Users\demir\source\repos\Generics - exercise\SwapMethod\bin\Debug\netcoreapp3.1\SwapMethod.runtimeconfig.json
+C:\Users\demir\source\repos\Generics - exercise\SwapMethod\bin\Debug\netcoreapp3.1\SwapMethod.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Generics - exercise\SwapMethod\bin\Debug\netcoreapp3.1\SwapMethod.dll
+C:\Users\demir\source\repos\Generics - exercise\SwapMethod\bin\Debug\netcoreapp3.1\SwapMethod.pdb
+C:\Users\demir\source\repos\Generics - exercise\SwapMethod\obj\Debug\netcoreapp3.1\SwapMethod.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Generics - exercise\SwapMethod\obj\Debug\netcoreapp3.1\SwapMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Generics - exercise\SwapMethod\obj\Debug\netcoreapp3.1\SwapMethod.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Generics - exercise\SwapMethod\obj\Debug\netcoreapp3.1\SwapMethod.AssemblyInfo.cs
+C:\Users\demir\source\repos\Generics - exercise\SwapMethod\obj\Debug\netcoreapp3.1\SwapMethod.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Generics - exercise\SwapMethod\obj\Debug\netcoreapp3.1\SwapMethod.dll
+C:\Users\demir\source\repos\Generics - exercise\SwapMethod\obj\Debug\netcoreapp3.1\SwapMethod.pdb
+C:\Users\demir\source\repos\Generics - exercise\SwapMethod\obj\Debug\netcoreapp3.1\SwapMethod.genruntimeconfig.cache

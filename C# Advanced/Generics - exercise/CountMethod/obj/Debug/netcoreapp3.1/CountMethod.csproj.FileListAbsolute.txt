@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Generics - exercise\CountMethod\bin\Debug\netcoreapp3.1\CountMethod.exe
+C:\Users\demir\source\repos\Generics - exercise\CountMethod\bin\Debug\netcoreapp3.1\CountMethod.deps.json
+C:\Users\demir\source\repos\Generics - exercise\CountMethod\bin\Debug\netcoreapp3.1\CountMethod.runtimeconfig.json
+C:\Users\demir\source\repos\Generics - exercise\CountMethod\bin\Debug\netcoreapp3.1\CountMethod.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Generics - exercise\CountMethod\bin\Debug\netcoreapp3.1\CountMethod.dll
+C:\Users\demir\source\repos\Generics - exercise\CountMethod\bin\Debug\netcoreapp3.1\CountMethod.pdb
+C:\Users\demir\source\repos\Generics - exercise\CountMethod\obj\Debug\netcoreapp3.1\CountMethod.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Generics - exercise\CountMethod\obj\Debug\netcoreapp3.1\CountMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Generics - exercise\CountMethod\obj\Debug\netcoreapp3.1\CountMethod.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Generics - exercise\CountMethod\obj\Debug\netcoreapp3.1\CountMethod.AssemblyInfo.cs
+C:\Users\demir\source\repos\Generics - exercise\CountMethod\obj\Debug\netcoreapp3.1\CountMethod.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Generics - exercise\CountMethod\obj\Debug\netcoreapp3.1\CountMethod.dll
+C:\Users\demir\source\repos\Generics - exercise\CountMethod\obj\Debug\netcoreapp3.1\CountMethod.pdb
+C:\Users\demir\source\repos\Generics - exercise\CountMethod\obj\Debug\netcoreapp3.1\CountMethod.genruntimeconfig.cache

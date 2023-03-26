@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Generics - exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\BoxOfString.exe
+C:\Users\demir\source\repos\Generics - exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\BoxOfString.deps.json
+C:\Users\demir\source\repos\Generics - exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\BoxOfString.runtimeconfig.json
+C:\Users\demir\source\repos\Generics - exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\BoxOfString.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Generics - exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\BoxOfString.dll
+C:\Users\demir\source\repos\Generics - exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\BoxOfString.pdb
+C:\Users\demir\source\repos\Generics - exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\BoxOfString.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Generics - exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\BoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Generics - exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\BoxOfString.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Generics - exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\BoxOfString.AssemblyInfo.cs
+C:\Users\demir\source\repos\Generics - exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\BoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Generics - exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\BoxOfString.dll
+C:\Users\demir\source\repos\Generics - exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\BoxOfString.pdb
+C:\Users\demir\source\repos\Generics - exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\BoxOfString.genruntimeconfig.cache
