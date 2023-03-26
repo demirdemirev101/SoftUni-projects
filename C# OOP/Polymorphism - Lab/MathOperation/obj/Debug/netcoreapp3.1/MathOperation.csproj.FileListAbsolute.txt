@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Polymorphism - Lab\MathOperation\bin\Debug\netcoreapp3.1\Operations.exe
+C:\Users\demir\source\repos\Polymorphism - Lab\MathOperation\bin\Debug\netcoreapp3.1\Operations.deps.json
+C:\Users\demir\source\repos\Polymorphism - Lab\MathOperation\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+C:\Users\demir\source\repos\Polymorphism - Lab\MathOperation\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Polymorphism - Lab\MathOperation\bin\Debug\netcoreapp3.1\Operations.dll
+C:\Users\demir\source\repos\Polymorphism - Lab\MathOperation\bin\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\demir\source\repos\Polymorphism - Lab\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Polymorphism - Lab\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Polymorphism - Lab\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Polymorphism - Lab\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.AssemblyInfo.cs
+C:\Users\demir\source\repos\Polymorphism - Lab\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Polymorphism - Lab\MathOperation\obj\Debug\netcoreapp3.1\Operations.dll
+C:\Users\demir\source\repos\Polymorphism - Lab\MathOperation\obj\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\demir\source\repos\Polymorphism - Lab\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.genruntimeconfig.cache
