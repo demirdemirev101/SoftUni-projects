@@ -1,0 +1,14 @@
+C:\Users\demir\source\repos\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\demir\source\repos\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\demir\source\repos\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\demir\source\repos\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\demir\source\repos\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\demir\source\repos\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\demir\source\repos\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.AssemblyReference.cache
+C:\Users\demir\source\repos\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\source\repos\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\demir\source\repos\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\demir\source\repos\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\demir\source\repos\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\demir\source\repos\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\demir\source\repos\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache
