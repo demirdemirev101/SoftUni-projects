@@ -1,0 +1,16 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5em;
+    font-size: 12px;
+}
+footer ul{
+    list-style-type: none;
+    display: flex;
+}
+footer li{
+    padding-left: 10px;
+}
+footer i{
+    color: black;
+}

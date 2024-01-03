@@ -1,0 +1,107 @@
+.section4{
+    width: 100%;
+    background-color: #F3F5FA;
+    padding: 2em 0;
+    font-size: 10px;
+}
+.section4 a{
+    background-color: #ADE2DF;
+    color: black;
+    text-decoration: none;
+    padding: 4px 0;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 6px;
+}
+.section4 h2{
+    padding-top: 0.7em;
+    font-size: 30px;
+    padding-bottom: 1.4em;
+}
+.main-container{
+    text-align: center;
+}
+.container{
+    display: flex;
+    padding-top: 0.3em;
+}
+
+.container .card{
+    background-color: #fff;
+    height: 250px;
+    flex: 1 1 20%;
+    padding: 0 15px;
+    padding-top: 18px;
+    padding-bottom: 25px; 
+}
+.card span{
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+}
+.card a{
+    background-color: #ADE2DF;
+    color: black;
+    text-decoration: none;
+    margin-top: 0.4em;
+    padding: 1em 3em;
+    border-radius: 5px;
+}
+.section4 .card h2{
+    border-bottom: 1px solid #E8E8E8;
+    padding-bottom: 0.5em;
+    font-size: 18px;
+}
+#border{
+    border-right: 1px solid #E8E8E8;
+}
+.section4 .card ul{
+    list-style-type: none;
+    padding-top: 1.7em;
+    padding-bottom: 4em;
+}
+.section4 .card ul li{
+    font-size: 10px;
+    line-height: 2;
+}
+.container .card1{
+    background-color: #ADE2DF;
+    display: flex;
+    flex: 1 1 40%;
+    flex-direction: column;
+    padding-top: 2em;
+    padding-left: 2em;
+}
+.card1 h3{
+    text-align: center;
+}
+.card1 span{
+    font-weight: bold;
+    font-size: 13px;
+}
+.card1 ul{
+ list-style-type: none;
+ padding-top: 1.3em;
+ padding-bottom: 9em;
+}
+.card1 ul li{
+    line-height: 2;
+}
+.container .card1 a{
+    align-self: center;
+    background-color: black;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    padding: 1em 12em;
+}
+.change{
+    display: flex;
+    gap: 0.3em;
+}
+.change span{
+    font-weight: normal;
+    align-self: flex-end;
+    font-size: 10px;
+}

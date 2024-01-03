@@ -1,0 +1,33 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1.7em;
+    padding-bottom: 1.8em;
+}
+header, header ul, header li, header a{
+    color: black;
+    font-size: 12px;
+}
+header ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 3.5em;
+}
+header li{
+   margin-left: 2em;
+}
+header a{
+    text-decoration: none;
+}
+.links1{
+    margin-right: 4em;
+}
+.links1 a{
+    margin-right: 2em;
+}
+.fill{
+    background-color: #ADE2DF;
+    border-radius: 5px;
+    padding: 0.7em 0.7em;
+}

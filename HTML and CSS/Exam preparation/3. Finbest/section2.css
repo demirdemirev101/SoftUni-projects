@@ -1,0 +1,21 @@
+.section2{
+    display: flex;
+    margin: 3em 0;
+    justify-content: center;
+    text-align: center;
+}
+.section2 article{
+    border-left: 1px solid #E8E8E8;
+    border-right: 1px solid #E8E8E8;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    padding-top: 0.4em;
+    padding-bottom: 2.5em;
+}
+.section2 article h3{
+    font-size: 23px;
+    padding-bottom: 0.6em;
+}
+.section2 article p{
+    font-size: 12px;
+}
