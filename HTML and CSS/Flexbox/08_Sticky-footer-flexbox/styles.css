@@ -1,0 +1,32 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+}
+body{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(238, 238, 238);
+    height: 100vh;
+    font-family: Helvetica, sans-serif;
+}
+header{
+    flex: 1 1 100%;
+    border-bottom: 2px solid black;
+}
+main{
+    padding: 1em 2em;
+    line-height: 1.5;
+}
+main p{
+    margin-bottom: 0.8em;
+}
+h1{
+    text-transform: uppercase;
+    padding: 0.4em 0.4em;
+}
+footer{
+    flex: 1 1 100%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(102, 102, 102);
+    padding: 0.4em 0.4em;
+}

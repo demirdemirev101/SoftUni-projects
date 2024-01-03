@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(238, 238, 238);
+}
+.masonry{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    padding-bottom: 1em;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    justify-content: left;
+    align-items: stretch;
+    height: 300px;
+}
+.card{
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+    width: 30%;
+}
+.card section, .card footer{
+    padding: 0.4em 0.4em;
+    font-family: Helvetica, sans-serif;
+}
+.card > section {
+    border-bottom: 2px solid rgb(238, 238, 238);
+}
+.image1, .image2, .image3, .image4{
+    width: 100%;
+}

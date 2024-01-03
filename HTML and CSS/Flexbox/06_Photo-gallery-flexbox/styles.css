@@ -1,0 +1,21 @@
+body{
+    background-color: lightgrey;
+    display: flex;
+}
+img{
+    width: 100px;
+    height: auto;
+    border: 10px solid black;
+    padding: 1em;
+    background-color: white;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+li{
+    display: flex;
+}
