@@ -12,7 +12,7 @@ Softuni is licensed programming academy, which teach the future software enginee
 
 - C# OOP
 
-4. JS FrontEnd And HTML And CSS
+4. JS FrontEnd
 
 - HTML and CSS
 
