@@ -1,0 +1,27 @@
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\bin\Debug\net6.0\2. Villain Names.deps.json
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\bin\Debug\net6.0\2. Villain Names.runtimeconfig.json
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\bin\Debug\net6.0\2. Villain Names.exe
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\bin\Debug\net6.0\7. Print All Minion Names.exe
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\bin\Debug\net6.0\7. Print All Minion Names.deps.json
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\bin\Debug\net6.0\7. Print All Minion Names.runtimeconfig.json
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\bin\Debug\net6.0\7. Print All Minion Names.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\bin\Debug\net6.0\7. Print All Minion Names.pdb
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\bin\Debug\net6.0\2. Villain Names.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\bin\Debug\net6.0\2. Villain Names.pdb
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\obj\Debug\net6.0\7. Print All Minion Names.csproj.AssemblyReference.cache
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\obj\Debug\net6.0\7. Print All Minion Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\obj\Debug\net6.0\7. Print All Minion Names.AssemblyInfoInputs.cache
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\obj\Debug\net6.0\7. Print All Minion Names.AssemblyInfo.cs
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\obj\Debug\net6.0\7. Print All Minion Names.csproj.CoreCompileInputs.cache
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\obj\Debug\net6.0\7. Print All Minion Names.csproj.CopyComplete
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\obj\Debug\net6.0\7. Print All Minion Names.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\obj\Debug\net6.0\refint\7. Print All Minion Names.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\obj\Debug\net6.0\7. Print All Minion Names.pdb
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\obj\Debug\net6.0\7. Print All Minion Names.genruntimeconfig.cache
+C:\Users\Demir\source\repos\Entity framework core\Test\7. Print All Minion Names\obj\Debug\net6.0\ref\7. Print All Minion Names.dll

@@ -1,0 +1,27 @@
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\bin\Debug\net6.0\8. Increase Minion Age.exe
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\bin\Debug\net6.0\8. Increase Minion Age.deps.json
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\bin\Debug\net6.0\8. Increase Minion Age.runtimeconfig.json
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\bin\Debug\net6.0\8. Increase Minion Age.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\bin\Debug\net6.0\8. Increase Minion Age.pdb
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\obj\Debug\net6.0\8. Increase Minion Age.csproj.AssemblyReference.cache
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\obj\Debug\net6.0\8. Increase Minion Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\obj\Debug\net6.0\8. Increase Minion Age.AssemblyInfoInputs.cache
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\obj\Debug\net6.0\8. Increase Minion Age.AssemblyInfo.cs
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\obj\Debug\net6.0\8. Increase Minion Age.csproj.CoreCompileInputs.cache
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\obj\Debug\net6.0\8. Increase Minion Age.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\obj\Debug\net6.0\refint\8. Increase Minion Age.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\obj\Debug\net6.0\8. Increase Minion Age.pdb
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\obj\Debug\net6.0\8. Increase Minion Age.genruntimeconfig.cache
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\obj\Debug\net6.0\ref\8. Increase Minion Age.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\bin\Debug\net6.0\2. Villain Names.deps.json
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\bin\Debug\net6.0\2. Villain Names.runtimeconfig.json
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\bin\Debug\net6.0\2. Villain Names.exe
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\bin\Debug\net6.0\2. Villain Names.dll
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\bin\Debug\net6.0\2. Villain Names.pdb
+C:\Users\Demir\source\repos\Entity framework core\Test\8. Increase Minion Age\obj\Debug\net6.0\8. Increase Minion Age.csproj.CopyComplete
