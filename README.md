@@ -18,9 +18,9 @@ Softuni is licensed programming academy, which teach the future software enginee
 
 - JS FrontEnd
 
-5. C# Database
+5. C# DB
 
-- MYSQL
+- MSSQL
 
 - Entity Framework Core
 
