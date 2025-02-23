@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Demir\\source\\repos\\MVCIntro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF95DBC4-DC1F-4C54-B5C8-E34EF589C8E0}|MVCIntro\\MVCIntro.csproj|c:\\users\\demir\\source\\repos\\mvcintro\\mvcintro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF95DBC4-DC1F-4C54-B5C8-E34EF589C8E0}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF95DBC4-DC1F-4C54-B5C8-E34EF589C8E0}|MVCIntro\\MVCIntro.csproj|c:\\users\\demir\\source\\repos\\mvcintro\\mvcintro\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF95DBC4-DC1F-4C54-B5C8-E34EF589C8E0}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF95DBC4-DC1F-4C54-B5C8-E34EF589C8E0}|MVCIntro\\MVCIntro.csproj|c:\\users\\demir\\source\\repos\\mvcintro\\mvcintro\\views\\product\\byid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF95DBC4-DC1F-4C54-B5C8-E34EF589C8E0}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\views\\product\\byid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF95DBC4-DC1F-4C54-B5C8-E34EF589C8E0}|MVCIntro\\MVCIntro.csproj|c:\\users\\demir\\source\\repos\\mvcintro\\mvcintro\\views\\product\\my-products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF95DBC4-DC1F-4C54-B5C8-E34EF589C8E0}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\views\\product\\my-products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF95DBC4-DC1F-4C54-B5C8-E34EF589C8E0}|MVCIntro\\MVCIntro.csproj|c:\\users\\demir\\source\\repos\\mvcintro\\mvcintro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF95DBC4-DC1F-4C54-B5C8-E34EF589C8E0}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF95DBC4-DC1F-4C54-B5C8-E34EF589C8E0}|MVCIntro\\MVCIntro.csproj|c:\\users\\demir\\source\\repos\\mvcintro\\mvcintro\\models\\product\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF95DBC4-DC1F-4C54-B5C8-E34EF589C8E0}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\models\\product\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF95DBC4-DC1F-4C54-B5C8-E34EF589C8E0}|MVCIntro\\MVCIntro.csproj|c:\\users\\demir\\source\\repos\\mvcintro\\mvcintro\\views\\home\\numbers1ton.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF95DBC4-DC1F-4C54-B5C8-E34EF589C8E0}|MVCIntro\\MVCIntro.csproj|solutionrelative:mvcintro\\views\\home\\numbers1ton.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ById.cshtml",
+              "DocumentMoniker": "C:\\Users\\Demir\\source\\repos\\MVCIntro\\MVCIntro\\Views\\Product\\ById.cshtml",
+              "RelativeDocumentMoniker": "MVCIntro\\Views\\Product\\ById.cshtml",
+              "ToolTip": "C:\\Users\\Demir\\source\\repos\\MVCIntro\\MVCIntro\\Views\\Product\\ById.cshtml",
+              "RelativeToolTip": "MVCIntro\\Views\\Product\\ById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T09:46:55.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "My-Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\Demir\\source\\repos\\MVCIntro\\MVCIntro\\Views\\Product\\My-Products.cshtml",
+              "RelativeDocumentMoniker": "MVCIntro\\Views\\Product\\My-Products.cshtml",
+              "ToolTip": "C:\\Users\\Demir\\source\\repos\\MVCIntro\\MVCIntro\\Views\\Product\\My-Products.cshtml",
+              "RelativeToolTip": "MVCIntro\\Views\\Product\\My-Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T09:14:23.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Demir\\source\\repos\\MVCIntro\\MVCIntro\\Models\\Product\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "MVCIntro\\Models\\Product\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\Demir\\source\\repos\\MVCIntro\\MVCIntro\\Models\\Product\\ProductViewModel.cs",
+              "RelativeToolTip": "MVCIntro\\Models\\Product\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:45:24.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Demir\\source\\repos\\MVCIntro\\MVCIntro\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MVCIntro\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Demir\\source\\repos\\MVCIntro\\MVCIntro\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MVCIntro\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:43:29.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Demir\\source\\repos\\MVCIntro\\MVCIntro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCIntro\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Demir\\source\\repos\\MVCIntro\\MVCIntro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCIntro\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAC4AAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T13:44:30.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Demir\\source\\repos\\MVCIntro\\MVCIntro\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCIntro\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Demir\\source\\repos\\MVCIntro\\MVCIntro\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCIntro\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:28:04.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Numbers1ToN.cshtml",
+              "DocumentMoniker": "C:\\Users\\Demir\\source\\repos\\MVCIntro\\MVCIntro\\Views\\Home\\Numbers1ToN.cshtml",
+              "RelativeDocumentMoniker": "MVCIntro\\Views\\Home\\Numbers1ToN.cshtml",
+              "ToolTip": "C:\\Users\\Demir\\source\\repos\\MVCIntro\\MVCIntro\\Views\\Home\\Numbers1ToN.cshtml",
+              "RelativeToolTip": "MVCIntro\\Views\\Home\\Numbers1ToN.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T13:27:10.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Demir\\source\\repos\\ForumApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|c:\\users\\demir\\source\\repos\\forumapp\\forumapp\\views\\post\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\post\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|c:\\users\\demir\\source\\repos\\forumapp\\forumapp\\views\\post\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\post\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|c:\\users\\demir\\source\\repos\\forumapp\\forumapp\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|c:\\users\\demir\\source\\repos\\forumapp\\forumapp\\models\\post\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\models\\post\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|c:\\users\\demir\\source\\repos\\forumapp\\forumapp\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|c:\\users\\demir\\source\\repos\\forumapp\\forumapp\\models\\post\\postformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\models\\post\\postformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|c:\\users\\demir\\source\\repos\\forumapp\\forumapp\\data\\forumappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\data\\forumappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|c:\\users\\demir\\source\\repos\\forumapp\\forumapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|c:\\users\\demir\\source\\repos\\forumapp\\forumapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7BD48A0-EEDD-4925-A8D6-9DC614C23DC0}|ForumApp\\ForumApp.csproj|solutionrelative:forumapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Views\\Post\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ForumApp\\Views\\Post\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Views\\Post\\Edit.cshtml",
+              "RelativeToolTip": "ForumApp\\Views\\Post\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T11:29:06.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Models\\Post\\PostViewModel.cs",
+              "RelativeDocumentMoniker": "ForumApp\\Models\\Post\\PostViewModel.cs",
+              "ToolTip": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Models\\Post\\PostViewModel.cs",
+              "RelativeToolTip": "ForumApp\\Models\\Post\\PostViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:06:58.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostFormModel.cs",
+              "DocumentMoniker": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Models\\Post\\PostFormModel.cs",
+              "RelativeDocumentMoniker": "ForumApp\\Models\\Post\\PostFormModel.cs",
+              "ToolTip": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Models\\Post\\PostFormModel.cs",
+              "RelativeToolTip": "ForumApp\\Models\\Post\\PostFormModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:06:46.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Views\\Post\\Add.cshtml",
+              "RelativeDocumentMoniker": "ForumApp\\Views\\Post\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Views\\Post\\Add.cshtml",
+              "RelativeToolTip": "ForumApp\\Views\\Post\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T10:32:05.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ForumApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ForumApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T10:25:26.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ForumApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ForumApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T10:23:25.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Views\\Post\\All.cshtml",
+              "RelativeDocumentMoniker": "ForumApp\\Views\\Post\\All.cshtml",
+              "ToolTip": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Views\\Post\\All.cshtml*",
+              "RelativeToolTip": "ForumApp\\Views\\Post\\All.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T10:20:09.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForumAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Data\\ForumAppDbContext.cs",
+              "RelativeDocumentMoniker": "ForumApp\\Data\\ForumAppDbContext.cs",
+              "ToolTip": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Data\\ForumAppDbContext.cs",
+              "RelativeToolTip": "ForumApp\\Data\\ForumAppDbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:14:20.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "ForumApp\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\Demir\\source\\repos\\ForumApp\\ForumApp\\Controllers\\PostController.cs",
+              "RelativeToolTip": "ForumApp\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowCQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:09:16.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
